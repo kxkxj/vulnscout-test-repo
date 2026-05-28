@@ -1,0 +1,12 @@
+{
+  "name": "vulnscout-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test repository for VulnScout vulnerability scanning",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
